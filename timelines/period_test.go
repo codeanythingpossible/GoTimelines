@@ -1,4 +1,4 @@
-package core
+package timelines
 
 import (
 	"testing"
